@@ -11,4 +11,4 @@ Places where you can be notified:
 
 Scrapes the data from ESPN CricInfo using a simple and crappy beautifulysoup script.
 
-The script is rather shit, more improvements will come in the recent months (even new sports maybe?)
+The script is rather shit, more improvements will come in the recent months (even new sports maybe?)..
